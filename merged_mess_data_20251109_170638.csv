@@ -1,0 +1,187 @@
+Date,Day_x,Meal,Attendance,Day_y,Waste_kg,Day,Waste_per_plate_g,Menu_Item,dow
+2025-03-10,Monday,Breakfast,405,Monday,20.36,Monday,50.2716049382716,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-03-10,Monday,Lunch,519,Monday,58.96,Monday,113.60308285163777,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-03-10,Monday,Dinner,580,Monday,28.92,Monday,49.862068965517246,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-03-11,Tuesday,Breakfast,429,Tuesday,28.92,Tuesday,67.41258741258741,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-03-11,Tuesday,Lunch,536,Tuesday,54.58,Tuesday,101.82835820895522,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-03-11,Tuesday,Dinner,621,Tuesday,34.17,Tuesday,55.02415458937198,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-03-12,Wednesday,Breakfast,482,Wednesday,25.96,Wednesday,53.858921161825734,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-03-12,Wednesday,Lunch,674,Wednesday,55.43,Wednesday,82.24035608308606,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-03-12,Wednesday,Dinner,400,Wednesday,27.01,Wednesday,67.525,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-03-13,Thursday,Breakfast,424,Thursday,27.87,Thursday,65.73113207547169,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-03-13,Thursday,Lunch,561,Thursday,55.15,Thursday,98.30659536541889,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-03-13,Thursday,Dinner,520,Thursday,26.92,Thursday,51.769230769230774,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-03-14,Friday,Lunch,567,Friday,59.59,Friday,105.09700176366843,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-03-14,Friday,Dinner,590,Friday,31.36,Friday,53.152542372881356,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-03-14,Friday,Breakfast,426,Friday,28.13,Friday,66.03286384976525,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-03-15,Saturday,Dinner,451,Saturday,28.83,Saturday,63.92461197339246,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-03-15,Saturday,Breakfast,435,Saturday,22.99,Saturday,52.85057471264368,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-03-15,Saturday,Lunch,493,Saturday,56.29,Saturday,114.17849898580123,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-03-16,Sunday,Dinner,443,Sunday,30.04,Sunday,67.81038374717832,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-03-16,Sunday,Breakfast,440,Sunday,24.86,Sunday,56.5,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-03-16,Sunday,Lunch,604,Sunday,52.58,Sunday,87.05298013245033,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-03-17,Monday,Dinner,607,Monday,33.76,Monday,55.61779242174629,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-03-17,Monday,Breakfast,432,Monday,23.63,Monday,54.699074074074076,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-03-17,Monday,Lunch,522,Monday,102.4,Monday,196.16858237547893,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-03-18,Tuesday,Dinner,624,Tuesday,26.38,Tuesday,42.27564102564103,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-03-18,Tuesday,Lunch,596,Tuesday,53.12,Tuesday,89.12751677852349,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-03-18,Tuesday,Breakfast,469,Tuesday,26.79,Tuesday,57.12153518123667,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-03-19,Wednesday,Lunch,622,Wednesday,57.59,Wednesday,92.58842443729905,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-03-19,Wednesday,Dinner,474,Wednesday,31.37,Wednesday,66.18143459915612,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-03-19,Wednesday,Breakfast,520,Wednesday,19.85,Wednesday,38.17307692307693,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-03-20,Thursday,Lunch,530,Thursday,52.05,Thursday,98.2075471698113,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-03-20,Thursday,Dinner,524,Thursday,30.25,Thursday,57.729007633587784,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-03-20,Thursday,Breakfast,542,Thursday,25.91,Thursday,47.80442804428044,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-03-21,Friday,Lunch,539,Friday,50.47,Friday,93.63636363636363,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-03-21,Friday,Dinner,549,Friday,34.65,Friday,63.11475409836065,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-03-21,Friday,Breakfast,373,Friday,23.31,Friday,62.49329758713136,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-03-22,Saturday,Dinner,365,Saturday,30.57,Saturday,83.75342465753424,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-03-22,Saturday,Breakfast,462,Saturday,27.74,Saturday,60.043290043290035,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-03-22,Saturday,Lunch,242,Saturday,56.39,Saturday,233.01652892561984,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-03-23,Sunday,Breakfast,506,Sunday,22.1,Sunday,43.67588932806325,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-03-23,Sunday,Lunch,602,Sunday,51.93,Sunday,86.2624584717608,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-03-23,Sunday,Dinner,444,Sunday,25.35,Sunday,57.094594594594604,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-03-24,Monday,Breakfast,475,Monday,27.31,Monday,57.49473684210526,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-03-24,Monday,Lunch,547,Monday,57.33,Monday,104.80804387568556,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-03-24,Monday,Dinner,592,Monday,29.04,Monday,49.05405405405405,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-03-25,Tuesday,Lunch,614,Tuesday,54.14,Tuesday,88.17589576547232,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-03-25,Tuesday,Dinner,640,Tuesday,34.41,Tuesday,53.765625,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-03-25,Tuesday,Breakfast,443,Tuesday,20.15,Tuesday,45.485327313769744,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-03-26,Wednesday,Dinner,509,Wednesday,28.53,Wednesday,56.051080550098234,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-03-26,Wednesday,Breakfast,506,Wednesday,22.13,Wednesday,43.73517786561264,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-03-26,Wednesday,Lunch,641,Wednesday,54.03,Wednesday,84.29017160686428,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-03-27,Thursday,Dinner,573,Thursday,34.01,Thursday,59.354275741710296,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-03-27,Thursday,Breakfast,409,Thursday,22.69,Thursday,55.47677261613692,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-03-27,Thursday,Lunch,604,Thursday,51.77,Thursday,85.71192052980132,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-03-28,Friday,Dinner,503,Friday,29.12,Friday,57.89264413518887,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-03-28,Friday,Breakfast,445,Friday,27.89,Friday,62.674157303370784,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-03-28,Friday,Lunch,481,Friday,59.15,Friday,122.97297297297297,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-03-29,Saturday,Dinner,335,Saturday,30.59,Saturday,91.3134328358209,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-03-29,Saturday,Breakfast,347,Saturday,20.59,Saturday,59.3371757925072,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-03-29,Saturday,Lunch,574,Saturday,53.7,Saturday,93.55400696864112,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-03-30,Sunday,Lunch,410,Sunday,58.09,Sunday,141.6829268292683,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-03-30,Sunday,Dinner,345,Sunday,26.4,Sunday,76.52173913043478,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-03-30,Sunday,Breakfast,395,Sunday,23.99,Sunday,60.73417721518987,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-03-31,Monday,Lunch,631,Monday,51.34,Monday,81.36291600633915,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-03-31,Monday,Dinner,469,Monday,26.83,Monday,57.20682302771855,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-03-31,Monday,Breakfast,324,Monday,24.94,Monday,76.97530864197532,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-04-01,Tuesday,Lunch,562,Tuesday,55.45,Tuesday,98.66548042704628,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-04-01,Tuesday,Dinner,544,Tuesday,28.95,Tuesday,53.216911764705884,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-04-01,Tuesday,Breakfast,380,Tuesday,23.45,Tuesday,61.71052631578947,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-04-02,Wednesday,Lunch,336,Wednesday,59.58,Wednesday,177.32142857142858,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-04-02,Wednesday,Dinner,540,Wednesday,29.82,Wednesday,55.22222222222222,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-04-02,Wednesday,Breakfast,675,Wednesday,20.69,Wednesday,30.651851851851855,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-04-03,Thursday,Lunch,540,Thursday,52.33,Thursday,96.9074074074074,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-04-03,Thursday,Breakfast,336,Thursday,23.6,Thursday,70.23809523809524,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-04-03,Thursday,Dinner,504,Thursday,31.43,Thursday,62.36111111111111,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-04-04,Friday,Breakfast,457,Friday,28.15,Friday,61.59737417943107,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-04-04,Friday,Lunch,565,Friday,57.35,Friday,101.50442477876106,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-04-04,Friday,Dinner,550,Friday,25.35,Friday,46.09090909090909,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-04-05,Saturday,Breakfast,449,Saturday,23.38,Saturday,52.07126948775055,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-04-05,Saturday,Lunch,391,Saturday,57.31,Saturday,146.57289002557545,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-04-05,Saturday,Dinner,461,Saturday,28.18,Saturday,61.127982646420826,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-04-06,Sunday,Breakfast,456,Sunday,20.85,Sunday,45.72368421052632,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-04-06,Sunday,Lunch,618,Sunday,54.12,Sunday,87.57281553398057,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-04-06,Sunday,Dinner,453,Sunday,32.89,Sunday,72.60485651214128,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-04-07,Monday,Dinner,551,Monday,28.12,Monday,51.03448275862069,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-04-07,Monday,Breakfast,421,Monday,26.3,Monday,62.47030878859858,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-04-07,Monday,Lunch,556,Monday,52.9,Monday,95.14388489208633,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-04-08,Tuesday,Lunch,566,Tuesday,52.97,Tuesday,93.58657243816253,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-04-08,Tuesday,Breakfast,397,Tuesday,22.17,Tuesday,55.84382871536524,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-04-08,Tuesday,Dinner,487,Tuesday,30.78,Tuesday,63.20328542094455,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-04-09,Wednesday,Dinner,226,Wednesday,34.03,Wednesday,150.57522123893804,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-04-09,Wednesday,Lunch,541,Wednesday,52.83,Wednesday,97.65249537892791,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-04-09,Wednesday,Breakfast,401,Wednesday,19.26,Wednesday,48.029925187032426,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-04-10,Thursday,Lunch,300,Thursday,53.06,Thursday,176.86666666666667,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-04-10,Thursday,Breakfast,226,Thursday,28.12,Thursday,124.42477876106194,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-04-10,Thursday,Dinner,287,Thursday,31.19,Thursday,108.67595818815332,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-04-11,Friday,Breakfast,677,Friday,22.41,Friday,33.10192023633678,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-04-11,Friday,Lunch,601,Friday,59.55,Friday,99.08485856905158,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-04-11,Friday,Dinner,528,Friday,30.85,Friday,58.428030303030305,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-04-12,Saturday,Lunch,363,Saturday,63.65,Saturday,175.3443526170799,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-04-12,Saturday,Breakfast,335,Saturday,23.91,Saturday,71.3731343283582,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-04-12,Saturday,Dinner,496,Saturday,31.63,Saturday,63.77016129032258,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-04-13,Sunday,Breakfast,482,Sunday,21.99,Sunday,45.62240663900415,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-04-13,Sunday,Dinner,439,Sunday,28.68,Sunday,65.33029612756263,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-04-13,Sunday,Lunch,442,Sunday,50.49,Sunday,114.23076923076923,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-04-14,Monday,Lunch,442,Monday,57.91,Monday,131.01809954751133,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-04-14,Monday,Dinner,568,Monday,30.71,Monday,54.066901408450704,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-04-14,Monday,Breakfast,439,Monday,30.64,Monday,69.79498861047837,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-04-15,Tuesday,Dinner,268,Tuesday,30.78,Tuesday,114.85074626865672,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-04-15,Tuesday,Lunch,621,Tuesday,59.33,Tuesday,95.53945249597423,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-04-15,Tuesday,Breakfast,337,Tuesday,21.77,Tuesday,64.5994065281899,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-04-16,Wednesday,Breakfast,522,Wednesday,30.92,Wednesday,59.23371647509579,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-04-16,Wednesday,Lunch,492,Wednesday,49.1,Wednesday,99.79674796747967,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-04-16,Wednesday,Dinner,469,Wednesday,31.47,Wednesday,67.10021321961621,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-04-17,Thursday,Lunch,598,Thursday,49.88,Thursday,83.4113712374582,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-04-17,Thursday,Breakfast,413,Thursday,23.14,Thursday,56.02905569007264,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-04-17,Thursday,Dinner,570,Thursday,30.94,Thursday,54.280701754385966,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-04-18,Friday,Breakfast,349,Friday,29.36,Friday,84.12607449856733,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-04-18,Friday,Lunch,446,Friday,55.14,Friday,123.63228699551568,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-04-18,Friday,Dinner,408,Friday,28.22,Friday,69.16666666666667,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-04-19,Saturday,Breakfast,484,Saturday,25.84,Saturday,53.388429752066116,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-04-19,Saturday,Lunch,704,Saturday,52.69,Saturday,74.84375,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-04-19,Saturday,Dinner,543,Saturday,31.31,Saturday,57.661141804788215,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-04-20,Sunday,Breakfast,624,Sunday,28.77,Sunday,46.105769230769226,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-04-20,Sunday,Dinner,536,Sunday,28.62,Sunday,53.3955223880597,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-04-20,Sunday,Lunch,558,Sunday,55.55,Sunday,99.55197132616487,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-04-21,Monday,Lunch,703,Monday,57.35,Monday,81.57894736842105,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-04-21,Monday,Breakfast,366,Monday,24.98,Monday,68.25136612021858,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-04-21,Monday,Dinner,359,Monday,30.52,Monday,85.01392757660167,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-04-22,Tuesday,Dinner,659,Tuesday,30.16,Tuesday,45.76631259484066,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-04-22,Tuesday,Lunch,664,Tuesday,48.68,Tuesday,73.3132530120482,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-04-22,Tuesday,Breakfast,424,Tuesday,23.59,Tuesday,55.636792452830186,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-04-23,Wednesday,Dinner,515,Wednesday,29.01,Wednesday,56.33009708737864,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-04-23,Wednesday,Breakfast,523,Wednesday,25.68,Wednesday,49.10133843212237,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-04-23,Wednesday,Lunch,499,Wednesday,62.39,Wednesday,125.03006012024048,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-04-24,Thursday,Dinner,608,Thursday,33.53,Thursday,55.14802631578947,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-04-24,Thursday,Breakfast,478,Thursday,24.86,Thursday,52.00836820083682,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-04-24,Thursday,Lunch,517,Thursday,49.73,Thursday,96.18955512572533,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-04-25,Friday,Breakfast,597,Friday,24.29,Friday,40.68676716917923,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-04-25,Friday,Lunch,372,Friday,61.6,Friday,165.59139784946237,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-04-25,Friday,Dinner,368,Friday,26.62,Friday,72.33695652173913,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-04-26,Saturday,Lunch,648,Saturday,67.8,Saturday,104.62962962962963,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-04-26,Saturday,Dinner,594,Saturday,24.26,Saturday,40.841750841750844,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-04-26,Saturday,Breakfast,417,Saturday,23.37,Saturday,56.043165467625904,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-04-27,Sunday,Lunch,523,Sunday,41.75,Sunday,79.82791586998088,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-04-27,Sunday,Dinner,755,Sunday,28.65,Sunday,37.94701986754967,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-04-27,Sunday,Breakfast,442,Sunday,24.81,Sunday,56.13122171945701,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-04-28,Monday,Dinner,594,Monday,30.49,Monday,51.32996632996633,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-04-28,Monday,Breakfast,367,Monday,23.3,Monday,63.48773841961854,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-04-28,Monday,Lunch,511,Monday,47.32,Monday,92.6027397260274,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-04-29,Tuesday,Breakfast,411,Tuesday,20.75,Tuesday,50.48661800486618,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-04-29,Tuesday,Dinner,402,Tuesday,25.23,Tuesday,62.761194029850756,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-04-29,Tuesday,Lunch,569,Tuesday,38.76,Tuesday,68.1195079086116,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-04-30,Wednesday,Dinner,637,Wednesday,33.47,Wednesday,52.54317111459968,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-04-30,Wednesday,Breakfast,490,Wednesday,20.5,Wednesday,41.83673469387755,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-04-30,Wednesday,Lunch,382,Wednesday,55.85,Wednesday,146.2041884816754,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-05-01,Thursday,Breakfast,357,Thursday,26.75,Thursday,74.92997198879551,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-05-01,Thursday,Dinner,403,Thursday,31.99,Thursday,79.37965260545906,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-05-01,Thursday,Lunch,548,Thursday,67.31,Thursday,122.82846715328468,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-05-02,Friday,Breakfast,468,Friday,25.48,Friday,54.44444444444445,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-05-02,Friday,Lunch,413,Friday,55.23,Friday,133.72881355932205,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-05-02,Friday,Dinner,501,Friday,27.46,Friday,54.81037924151696,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-05-03,Saturday,Dinner,700,Saturday,30.19,Saturday,43.12857142857143,"Dosai, Sambar, Kara Chutney, Milk",Saturday
+2025-05-03,Saturday,Breakfast,377,Saturday,22.58,Saturday,59.89389920424402,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-05-03,Saturday,Lunch,468,Saturday,68.68,Saturday,146.75213675213678,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-05-04,Sunday,Lunch,728,Sunday,77.13,Sunday,105.94780219780219,"Chicken Biriyani, Chicken 65, Onion Kurma, Raitha, Rasam, Ice Cream",Sunday
+2025-05-04,Sunday,Dinner,669,Sunday,25.08,Sunday,37.48878923766816,"Sambar Rice, Curd Rice, Potato Chips, Banana",Sunday
+2025-05-04,Sunday,Breakfast,497,Sunday,27.69,Sunday,55.714285714285715,"Bread Omelet, Kurma, Semiya Kesari, Butter, Jam, Tea/Coffee/Milk",Sunday
+2025-05-05,Monday,Dinner,470,Monday,29.28,Monday,62.297872340425535,"Dosai, Sambar, Kara Chutney, Milk",Monday
+2025-05-05,Monday,Breakfast,562,Monday,18.06,Monday,32.13523131672598,"Pongal, Medu Vadai, Sambar, Coconut Chutney, Tea/Coffee/Milk",Monday
+2025-05-05,Monday,Lunch,532,Monday,70.79,Monday,133.0639097744361,"Rice, Black Channa Kulambu, Keerai Kootu, Rasam, Buttermilk, Gulab Jamun",Monday
+2025-05-06,Tuesday,Lunch,429,Tuesday,50.51,Tuesday,117.73892773892773,"Rice, Sambar, Beetroot Poriyal, Rasam, Butter Milk, Vadagam, Pickle",Tuesday
+2025-05-06,Tuesday,Dinner,544,Tuesday,34.39,Tuesday,63.216911764705884,"Chappathi, Veg Kurma, Lemon Juice",Tuesday
+2025-05-06,Tuesday,Breakfast,384,Tuesday,24.82,Tuesday,64.63541666666667,"Idly, Tomato Kurma, Coconut Chutney, Tea/Coffee/Milk",Tuesday
+2025-05-07,Wednesday,Dinner,568,Wednesday,30.49,Wednesday,53.67957746478873,"Idly, Sambar, Coconut Chutney, Podi, Oil, Badam Milk",Wednesday
+2025-05-07,Wednesday,Breakfast,330,Wednesday,26.06,Wednesday,78.96969696969697,"Uthappam, Sambar, Groundnut Chutney, Tea/Coffee/Milk",Wednesday
+2025-05-07,Wednesday,Lunch,509,Wednesday,66.47,Wednesday,130.58939096267193,"Rice, Chicken Gravy, Rasam, Curd, Lemon Juice",Wednesday
+2025-05-08,Thursday,Lunch,655,Thursday,51.45,Thursday,78.54961832061069,"Rice, Egg Gravy with Boiled Egg, Rasam, Buttermilk, Appalam, Pickle",Thursday
+2025-05-08,Thursday,Dinner,592,Thursday,28.99,Thursday,48.9695945945946,"Tomato Rice, Brinjal Gravy, Appalam, Boost",Thursday
+2025-05-08,Thursday,Breakfast,364,Thursday,24.09,Thursday,66.18131868131869,"Rava Kitchadi, Kurma, Bread, Jam, Tea/Coffee/Milk",Thursday
+2025-05-09,Friday,Dinner,326,Friday,27.6,Friday,84.66257668711657,"Chappathi, Paneer Gravy, Lemon Juice",Friday
+2025-05-09,Friday,Breakfast,379,Friday,26.78,Friday,70.65963060686016,"Idly, Sambar, Coconut Chutney, Tea/Coffee/Milk",Friday
+2025-05-09,Friday,Lunch,476,Friday,53.42,Friday,112.22689075630252,"Rice, Dhall, Seasonal Poriyal, Rasam, Podi, Ghee, Payasam, Appalam, Curd, Pickle",Friday
+2025-05-10,Saturday,Lunch,533,Saturday,47.98,Saturday,90.0187617260788,"Rice, Brinjal Kara Kulambu, Kovaikkai Poriyal, Rasam, Butter Milk, Appalam, Pickle",Saturday
+2025-05-10,Saturday,Breakfast,444,Saturday,18.76,Saturday,42.252252252252255,"Poori, Potato Masala, Coconut Chutney, Tea/Coffee/Milk",Saturday
+2025-05-10,Saturday,Dinner,337,Saturday,30.67,Saturday,91.00890207715135,"Dosai, Sambar, Kara Chutney, Milk",Saturday
